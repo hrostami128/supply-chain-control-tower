@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region
+W001,East Warehouse,East
+W002,West Warehouse,West
+W003,Central Warehouse,Central
+W004,North Warehouse,North
+W005,South Warehouse,South

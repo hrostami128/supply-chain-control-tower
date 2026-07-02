@@ -1,0 +1,16 @@
+supplier_id,supplier_name,tier,country,min_lead_time,max_lead_time
+S001,Harris PLC,A,Saudi Arabia,5,7
+S002,"Torres, Bryant and Bryant",A,Saint Kitts and Nevis,5,7
+S003,"Turner, Jensen and Dickson",A,Thailand,5,7
+S004,Parker-Jones,A,Solomon Islands,5,7
+S005,Michael Inc,A,Romania,5,7
+S006,Ramirez PLC,B,Samoa,8,12
+S007,"Patterson, Blanchard and King",B,Aruba,8,12
+S008,Reid LLC,B,Singapore,8,12
+S009,"Hull, Lambert and Baldwin",B,Nicaragua,8,12
+S010,Bowers-Poole,B,Antigua and Barbuda,8,12
+S011,Dixon Group,C,Senegal,15,20
+S012,Davis-Bowman,C,Cocos (Keeling) Islands,15,20
+S013,Baldwin Inc,C,Netherlands,15,20
+S014,"Watts, Stephenson and Powers",C,Zimbabwe,15,20
+S015,Taylor PLC,C,Ethiopia,15,20
